@@ -1,0 +1,3 @@
+C:/Users/osman/Desktop/Code/C++/Solar System Formation/cmake-build-debug/CMakeFiles/Solar_System_Formation.dir
+C:/Users/osman/Desktop/Code/C++/Solar System Formation/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/osman/Desktop/Code/C++/Solar System Formation/cmake-build-debug/CMakeFiles/rebuild_cache.dir
